@@ -13663,4 +13663,7 @@
     <string name="protonplus_maintainer_title">@string/protonplus_maintainer</string>
     <string name="protonplus_maintainer_summary">Unknown</string>
     
+    <!-- Refresh rate -->
+    <string name="refresh_rate_title">Screen refresh rate</string>
+    
 </resources>
