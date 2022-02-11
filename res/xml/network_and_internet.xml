@@ -60,6 +60,13 @@
         settings:controller="com.android.settings.network.AirplaneModePreferenceController"
         settings:userRestriction="no_airplane_mode"/>
 
+    <com.android.settings.custom.preference.SecureSettingSwitchPreference
+        android:key="hide_qs_call_strength"
+        android:title="@string/show_qs_call_strength_icon_title"
+        android:summary="@string/show_qs_call_strength_icon_summary"
+        android:order="-6"
+        android:defaultValue="true" />    
+
     <com.android.settingslib.RestrictedPreference
         android:key="manage_mobile_plan"
         android:title="@string/manage_mobile_plan_title"
