@@ -45,6 +45,13 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.CustomFirmwareVersionPreferenceController"/>
 
+    <!-- Maintainer/s name/s -->
+    <Preference
+        android:key="protonplus_maintainer"
+        android:title="@string/protonplus_maintainer_title"
+        android:summary="@string/protonplus_maintainer_summary"
+        settings:enableCopying="true"/>
+
     <!-- Mainline module version -->
     <Preference
         android:key="module_version"
