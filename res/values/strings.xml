@@ -13657,6 +13657,7 @@
     <string name="bluetooth_connect_access_dialog_positive">Connect</string>
 
     <string name="sandboxed_google_play">Sandboxed Google Play</string>
+    <string name="sandboxed_google_play_work_profile">Sandboxed Google Play (work profile)</string>
 
     <!-- Maintainer -->
     <string name="protonplus_maintainer">Device Maintainer</string>
